@@ -1,3 +1,4 @@
+![image-from-rawpixel-id-9700542-jpeg](https://github.com/user-attachments/assets/b2568325-72a8-45f3-b37b-67ebb1ee9d36)
 # Charles' Music Lab
 
 A hybrid music creation system combining algorithmic composition, modular synthesis, and traditional DAW workflows.
