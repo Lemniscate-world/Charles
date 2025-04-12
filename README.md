@@ -1,4 +1,4 @@
-# Lemniscate Music Lab
+# Charles' Music Lab
 
 A hybrid music creation system combining algorithmic composition, modular synthesis, and traditional DAW workflows.
 
@@ -14,7 +14,7 @@ This project integrates multiple music creation approaches:
 
 ### Core Tools
 - **SuperCollider** - Sound synthesis engine
-- **TidalCycles** - Pattern-based live coding
+- **FoxDot** - Pattern-based live coding
 - **Bitwig/Ableton** - DAW for arrangement and mixing
 
 ### Additional Tools
