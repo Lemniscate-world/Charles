@@ -54,3 +54,6 @@ Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) f
 ## License
 
 MIT License - See LICENSE file for details
+
+![image-from-rawpixel-id-426278-jpeg](https://github.com/user-attachments/assets/21758069-9a25-4cdd-b132-2bc61073c1fd)
+
